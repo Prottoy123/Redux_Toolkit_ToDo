@@ -8,7 +8,7 @@ function Todos() {
 
   return (
     <>
-      <div>Todos</div>
+      <div>Make-Todos. checking the commit of the github repository</div>
       <ul className="list-none">
         {todos.map((todo) => (
           <li
